@@ -1,7 +1,7 @@
 # Pseudo-RIS
 
 > **Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation** \
-> [Seonghoon Yu](https://scholar.google.com/citations?user=VuIo1woAAAAJ&hl=ko), +[Paul Hongsuck Seo](https://phseo.github.io/), +[Jeany Son](https://jeanyson.github.io/) (+ Corresponding authors) \
+> [Seonghoon Yu](https://scholar.google.com/citations?user=VuIo1woAAAAJ&hl=ko), +[Paul Hongsuck Seo](https://phseo.github.io/), +[Jeany Son](https://jeanyson.github.io/) (+ corresponding authors) \
 > AI graduate school, GIST and Korea University \
 > ECCV 2024
 
