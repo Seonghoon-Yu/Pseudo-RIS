@@ -78,7 +78,7 @@ wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
 ```
 
 #### For CutLER
-We use [CutLER](https://github.com/facebookresearch/CutLER) to reduce the excessive number of SAM masks and over-segmented SAM masks to prevent OOM issues.
+We use [CutLER](https://github.com/facebookresearch/CutLER) to reduce the excessive number of SAM masks and over-segmented SAM masks to prevent OOM issues, as demonstrated in our supplementary and implementation details.
 
 ```
 cd third_party/CuTLER/cutler/
