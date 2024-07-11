@@ -1,6 +1,6 @@
 # Pseudo-RIS
 
-> **Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation** \
+> **[Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation](https://arxiv.org/abs/2407.07412)** \
 > [Seonghoon Yu](https://scholar.google.com/citations?user=VuIo1woAAAAJ&hl=ko), +[Paul Hongsuck Seo](https://phseo.github.io/), +[Jeany Son](https://jeanyson.github.io/) (+ corresponding authors) \
 > AI graduate school, GIST and Korea University \
 > ECCV 2024
@@ -120,7 +120,15 @@ python generate_pseudo_supervision/cutler_sam_dep_base.py
 ```
 
 ## Citation
-Available Soon.
+```
+@misc{yu2024pseudoris,
+    title={Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation},
+    author={Seonghoon Yu and Paul Hongsuck Seo and Jeany Son},
+    year={2024},
+    eprint={2407.07412},
+    archivePrefix={arXiv},
+}
+```
 
 ## Acknowledgements
 We are thanks to open-source foundation models ([CoCa](https://github.com/mlfoundations/open_clip), [SAM](https://github.com/facebookresearch/segment-anything), [CLIP](https://github.com/openai/CLIP)).
