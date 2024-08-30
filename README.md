@@ -121,12 +121,11 @@ python generate_pseudo_supervision/distinctive_caption_generation.py
 
 ## Citation
 ```
-@misc{yu2024pseudoris,
+@inproceedings{yu2024pseudoris,
     title={Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation},
     author={Seonghoon Yu and Paul Hongsuck Seo and Jeany Son},
-    year={2024},
-    eprint={2407.07412},
-    archivePrefix={arXiv},
+    booktitle={Proceedings of the European Conference on Computer Vision},
+    year={2024}
 }
 ```
 
