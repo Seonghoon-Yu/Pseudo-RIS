@@ -116,7 +116,7 @@ python generate_masks/cutler_sam_masks.py
 Pseudo referring texts are saved in './pseudo_supervision/cutler_sam/dep_base_cc3m.csv'
 
 ```
-python generate_pseudo_supervision/cutler_sam_dep_base.py
+python generate_pseudo_supervision/distinctive_caption_generation.py
 ```
 
 ## Citation
