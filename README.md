@@ -33,6 +33,8 @@ pip install lmdb
 pip install pyarrow==11.0.0
 pip install colored
 pip install pycocotools
+
+pip install transformers==4.31
 ```
 
 ### 2. Third Party
@@ -43,10 +45,6 @@ pip install -e .
 
 # Install detectron2 for CutLER 
 cd third_party/detectron2
-pip install -e .
-
-# Install transformer in a dev mode
-cd third_party/transformers
 pip install -e .
 
 # Install CLIP
