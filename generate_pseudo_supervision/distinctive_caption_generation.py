@@ -78,7 +78,7 @@ argment
 '''
 path2dir = f'./pseudo_supervision/cutler_sam'
 os.makedirs(path2dir, exist_ok=True)
-pseudo_name = f'dep_base_{fine_tune}'
+pseudo_name = f'distinctive_captions_{fine_tune}'
 json_name = f'{pseudo_name}.json'
 path2json = os.path.join(path2dir, f'{pseudo_name}.json')
 path2csv = os.path.join(path2dir, f'{pseudo_name}.csv')
