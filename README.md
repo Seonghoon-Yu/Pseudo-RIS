@@ -113,7 +113,7 @@ python generate_masks/cutler_sam_masks.py
 ```
 
 ### 2. Generate distinctive referring expressions on each pseudo mask.
-Pseudo referring texts are saved in './pseudo_supervision/cutler_sam/dep_base_cc3m.csv'
+Pseudo referring texts are saved in './pseudo_supervision/cutler_sam/distinctive_captions_cc3m.csv'
 
 ```
 python generate_pseudo_supervision/distinctive_caption_generation.py
