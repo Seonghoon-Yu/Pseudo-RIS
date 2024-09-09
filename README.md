@@ -101,7 +101,8 @@ We follow a [dataset setup](https://github.com/kkakkkka/ETRIS/blob/main/tools/pr
 ```
 
 ## Generate pseudo RIS annotations
-Codes are coming soon.
+
+
 ### 1. Generate pseudo masks
 We produce pseudo-masks using SAM and CutLER, as demonstrated in our implementation details and supplementary material.
 
