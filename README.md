@@ -59,11 +59,15 @@ pip install -e .
 ### 3. Download pre-trained weights
 We use the pre-trained weights for (1) CoCa, (2) SAM, and (3) CutLER.
 #### For CoCa
-We will provide CoCa pre-trained weights on LAION-2B and CC3M.
-
 Note that, [official CoCa repository](https://github.com/mlfoundations/open_clip#fine-tuning-coca) offers pre-trained model on LAION-2B.
 
 We fine-tune this on CC3M dataset.
+
+
+We provide CoCa pre-trained weights on LAION-2B and CC3M in the this [URL](https://huggingface.co/SeonghoonYu/pseudo-ris/tree/main).
+
+Put this in ./third_party/open_clip/src/logs/laion_cc3m/checkpoints/
+
 
 #### For SAM
 We use SAM ViT-H model.
